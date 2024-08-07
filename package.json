@@ -1,0 +1,11 @@
+{
+  "name": "fastifyapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "pino-pretty": "^11.2.2"
+  }
+}
